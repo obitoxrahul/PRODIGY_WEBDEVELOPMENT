@@ -1,12 +1,6 @@
 body {
      background: #66a6ff;
      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /*
-    display: flex;
-    align-items: center;
-    justify-content: left;
-    height: 100vh;
-    margin: 0; */
     
 }
 h2, label, p {
